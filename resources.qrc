@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qtIcons/add.png</file>
+        <file>qtIcons/clear.png</file>
+        <file>qtIcons/clearOutlog.png</file>
+        <file>qtIcons/delete.png</file>
+        <file>qtIcons/image.ico</file>
+        <file>qtIcons/load.png</file>
+        <file>qtIcons/pending.gif</file>
+        <file>qtIcons/run all.png</file>
+        <file>qtIcons/run.png</file>
+        <file>qtIcons/save.png</file>
+        <file>qtIcons/stop.png</file>
+        <file>qtIcons/tick.png</file>
+        <file>qtIcons/xmark.gif</file>
+    </qresource>
+</RCC>
